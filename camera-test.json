@@ -1,7 +1,7 @@
 {
   "Camera": 
   {
-    "SpringArmLength": 1000000.0, 
+    "SpringArmLength": 1234.5, 
     "Yaw": 0.0, 
     "Pitch": -45.0, 
     "Roll": 0.0
