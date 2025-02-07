@@ -1,8 +1,9 @@
 {
   "ContentBrowser": 
   {
-    "Action": NULL,
-    "FolderName": "/Game/StackOBot/Test", 
+    "DeleteFolder":false,
+    "CreateFolder":false,
+    "FolderName": "Test", 
     "Red": 0.0, 
     "Green": 0.0, 
     "Blue": 0.0
