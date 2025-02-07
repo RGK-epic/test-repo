@@ -2,7 +2,7 @@
   "ContentBrowser": 
   {
     "DeleteFolder":false,
-    "CreateFolder":false,
+    "CreateFolder":true,
     "FolderName": "Test", 
     "Red": 0.0, 
     "Green": 0.0, 
