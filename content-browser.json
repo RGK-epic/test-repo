@@ -3,6 +3,7 @@
   {
     "DeleteFolder":true,
     "CreateFolder":false,
+    "ChangeFolderColor":false,
     "FolderName": "Test", 
     "Red": 0.0, 
     "Green": 0.0, 
