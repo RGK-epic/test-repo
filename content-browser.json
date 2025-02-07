@@ -3,9 +3,9 @@
   {
     "DeleteFolder":false,
     "CreateFolder":true,
-    "ChangeFolderColor":false,
+    "ChangeFolderColor":true,
     "FolderName": "Test", 
-    "Red": 0.0, 
+    "Red": 1.0, 
     "Green": 0.0, 
     "Blue": 0.0
   }
