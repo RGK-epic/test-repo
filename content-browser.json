@@ -4,9 +4,9 @@
     "DeleteFolder":false,
     "CreateFolder":true,
     "ChangeFolderColor":true,
-    "FolderName": "is", 
+    "FolderName": "Unreal!", 
     "Red": 0.0, 
-    "Green": 1.0, 
-    "Blue": 0.0
+    "Green": 0.0, 
+    "Blue": 1.0
   }
 }
