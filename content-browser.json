@@ -1,12 +1,12 @@
 {
   "ContentBrowser": 
   {
-    "DeleteFolder":false,
-    "CreateFolder":true,
+    "DeleteFolder":true,
+    "CreateFolder":false,
     "ChangeFolderColor":true,
     "FolderName": "Unreal", 
     "Red": 0.0, 
     "Green": 0.0, 
-    "Blue": 1.0
+    "Blue": 0.0
   }
 }
