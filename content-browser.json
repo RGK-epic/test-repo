@@ -4,9 +4,9 @@
     "DeleteFolder":false,
     "CreateFolder":true,
     "ChangeFolderColor":true,
-    "FolderName": "This", 
-    "Red": 1.0, 
-    "Green": 0.0, 
+    "FolderName": "is", 
+    "Red": 0.0, 
+    "Green": 1.0, 
     "Blue": 0.0
   }
 }
