@@ -1,11 +1,11 @@
 {
   "ContentBrowser": 
   {
-    "DeleteFolder":true,
-    "CreateFolder":false,
-    "ChangeFolderColor":false,
-    "FolderName": "Test", 
-    "Red": 0.0, 
+    "DeleteFolder":false,
+    "CreateFolder":true,
+    "ChangeFolderColor":true,
+    "FolderName": "This", 
+    "Red": 1.0, 
     "Green": 0.0, 
     "Blue": 0.0
   }
