@@ -1,7 +1,7 @@
 {
   "ContentBrowser": 
   {
-    "DeleteFolder"false,
+    "DeleteFolder":false,
     "CreateFolder":true,
     "ChangeFolderColor":true,
     "FolderName": "This", 
